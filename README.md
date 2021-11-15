@@ -1,6 +1,6 @@
 # Reconstruction-of-functions-from-prescribed-proximal-points
 
-This repository contains files from Section 5 of the following paper.
+This repository contains Octave files from Section 5 of the following paper.
 
 P. L. Combettes and Z. C. Woodstock, Reconstruction of functions from prescribed proximal points, *Journal of Approximation Theory*, vol. 268, art. 105606, 26 pp., August 2021. 
 
