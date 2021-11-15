@@ -1,4 +1,4 @@
-# Reconstruction-of-functions-from-prescribed-proximal-points
+# Reconstruction of functions from prescribed proximal points
 
 This repository contains Octave files from Section 5 of the following paper.
 
